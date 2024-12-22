@@ -1,2 +1,3 @@
 # MY-learning-at-YBI-Foundation
-My Project
+I am learning at YBI Fondation
+Python Programming
